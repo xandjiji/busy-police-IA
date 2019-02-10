@@ -1,6 +1,7 @@
 # busy-police-IA
 
 An artificial intelligence for solving a simplified version of the Atari game Busy Police.
+
 ![game1](https://i.imgur.com/1y2S1I5.png)
 
 ### Details
