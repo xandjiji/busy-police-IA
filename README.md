@@ -2,7 +2,9 @@
 
 An artificial intelligence for solving a simplified version of the Atari game Busy Police.
 
-![game1](https://i.imgur.com/1y2S1I5.png)
+<p align="center">
+  <img src="https://i.imgur.com/1y2S1I5.png">
+</p>
 
 ### Details
 
@@ -13,7 +15,9 @@ An artificial intelligence for solving a simplified version of the Atari game Bu
 ### Example
 
 Consider the following scenario (busy_police3.pl):
-![game2](https://i.imgur.com/Feunzqw.png)
+<p align="center">
+  <img src="https://i.imgur.com/Feunzqw.png">
+</p>
 
 Using the following query:
 ```?- pegaLadrao([3, 1], L).```
